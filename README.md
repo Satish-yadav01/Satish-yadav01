@@ -4,7 +4,7 @@
 
 I'm a passionate developer with a strong interest in software development, open-source contributions, and always eager to learn new technologies. I thrive on challenges and aim to use my skills to create meaningful solutions.
 
-- 🔭 I’m currently working on [ProjectName](link-to-project) 
+- 🔭 I’m currently working on [ProjectName](link-to-project)
 - 🌱 I’m currently learning [Technology/Languages]
 - 👯 I’m looking to collaborate on [Open Source Project/Type of Projects]
 - 🤔 I’m looking for help with [Specific Issues/Projects]
@@ -65,9 +65,9 @@ I love contributing to open-source projects. Here are a few repositories I have 
 
 ## GitHub Stats
 
-![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish-yadav01&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-yadav01&layout=compact&theme=radical)
 
 ## Latest Blog Posts
 
@@ -76,4 +76,4 @@ I love contributing to open-source projects. Here are a few repositories I have 
 
 ---
 
-⭐️ From [Satish Yadav](https://github.com/your-github-username)
+⭐️ From [Satish Yadav](https://github.com/Satish-yadav01)
