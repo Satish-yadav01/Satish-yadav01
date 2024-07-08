@@ -15,7 +15,6 @@ I'm a passionate developer with a strong interest in software development, open-
 ## Skills
 
 ### Languages
-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 - ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 - ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
@@ -25,7 +24,6 @@ I'm a passionate developer with a strong interest in software development, open-
 ### Frameworks & Libraries
 - ![React](https://img.shields.io/badge/-React-000?&logo=React)
 - ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-- ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 - ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 ### Tools & Technologies
@@ -58,8 +56,7 @@ I love contributing to open-source projects. Here are a few repositories I have 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/your-twitter-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satish-yadav-ssy)
 [![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:your-email@example.com)
 [![Website](https://img.shields.io/badge/Website-blue?logo=google-chrome)](https://yourwebsite.com)
 
