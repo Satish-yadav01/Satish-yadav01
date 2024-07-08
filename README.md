@@ -5,12 +5,12 @@
 I'm a passionate developer with a strong interest in software development, open-source contributions, and always eager to learn new technologies. I thrive on challenges and aim to use my skills to create meaningful solutions.
 
 - 🔭 I’m currently working on [ProjectName](link-to-project)
-- 🌱 I’m currently learning [Technology/Languages]
+- 🌱 I’m currently learning [Springboot/Java]
 - 👯 I’m looking to collaborate on [Open Source Project/Type of Projects]
 - 🤔 I’m looking for help with [Specific Issues/Projects]
 - 💬 Ask me about [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your Email/LinkedIn Profile/Other Contact Methods]
-- ⚡ Fun fact: [A fun fact about you]
+- 📫 How to reach me: [satishyadav.sy02@gamil.com/satish-yadav-ssy/7558757731]
+- ⚡ Fun fact: [I don't do gym, gym do me 🤡]
 
 ## Skills
 
@@ -58,7 +58,7 @@ I love contributing to open-source projects. Here are a few repositories I have 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satish-yadav-ssy)
 [![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:your-email@example.com)
-[![Website](https://img.shields.io/badge/Website-blue?logo=google-chrome)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-blue?logo=google-chrome)]((https://satish-yadav01.github.io/portfolio/))
 
 ## GitHub Stats
 
